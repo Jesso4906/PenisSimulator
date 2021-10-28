@@ -1,3 +1,6 @@
+//https://gist.github.com/mstevenson/7b85893e8caf5ca034e6
+//Not made by me
+
 using UnityEngine;
 
 public static class ConfigurableJointExtensions
